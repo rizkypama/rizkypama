@@ -1,5 +1,83 @@
-# 💫 About Me:
-<br><br> 👨‍💻 Rizkiyan Tri Ade Pama  <br>Software Engineer | Front-End Specialist | Data Enthusiast  <br><br>🌟 "Empowering Lives Through Code and Innovation"<br><br><br><br> 🚀 About Me  <br>Hello! I'm Rizkiyan Tri Ade Pama, a forward-thinking Software Engineer and tech enthusiast specializing in Front-End Development and Data Science. With a blend of hands-on experience in enterprise-level projects and a commitment to lifelong learning, I strive to craft innovative solutions that address real-world challenges.  <br><br><br><br> 🛠️ Skills & Expertise  <br>- Programming Languages: JavaScript, Python, PHP, SQL  <br>- Front-End Tools: React.js, Vue.js, Tailwind CSS, Bootstrap  <br>- Data Science: Python (Pandas, NumPy, Matplotlib), Jupyter Notebook  <br>- Backend Development: Node.js, Laravel, Express.js  <br>- DevOps & Tools: Git, GitHub Actions, Docker, AWS  <br>- Specialties: Front-End Engineering, Data Visualization, API Integration  <br><br><br><br> 🌍 Experience Highlights  <br><br>1. Digistar Class Hacker - Front-End (Telkom Indonesia)  <br>   - Joined the Project Payment Gateway Team for PaDi-UMKM, focusing on enhancing secure transaction systems for small-medium enterprises.  <br>   - Achievements:  <br>     - Ranked 3rd in Class Hacker Front-End.  <br>     - Selected as one of the Top 10 Projects in PaDi-UMKM.  <br>     - Named in the Top 100 Mentee Nominees out of thousands of participants nationwide.  <br><br>2. IBM SkillsBuild Program (2024)  <br>   - Completed professional training in cloud computing, AI, and data analysis with a focus on real-world problem-solving.  <br><br>3. Dicoding: Data Scientist Beginner Pathway (2024)  <br>   - Certified Data Scientist Beginner, gaining practical experience in data wrangling, machine learning basics, and data visualization.  <br><br>4. Internship at PT. Telkom Akses Pekalongan  <br>   - Streamlined network maintenance workflows through custom-built systems, reducing downtime by 30%.  <br>   - Led a cross-functional team in automating key operational processes.  <br><br>5. Kemenpora - NYST Project  <br>   - Developed a Mosque Management System for the Ministry of Youth and Sports, integrating features for facility booking, event scheduling, and financial tracking to improve community accessibility.  <br><br>6. Community Service: Technology for Elderly Healthcare  <br>   - Spearheaded the creation of a healthcare app for Posyandu, addressing accessibility challenges for elderly services in rural areas.  <br><br>7. Virtual Exchange Program at Asia University, Taiwan  <br>   - Earned Top Performer status with a score of 98/100 in courses on Digital Image Processing and Volunteering in Technology.  <br>   - Collaborated with global peers on tech-driven solutions for community engagement.  <br><br><br><br> 📈 Projects & Contributions  <br>- Payment Gateway for PaDi-UMKM (2024)  <br>   A secure and scalable system supporting SME transactions, recognized among the Top 10 Projects by Telkom Indonesia.  <br><br>- Mosque Management System (Kemenpora) (2024)  <br>   A tech solution for mosque administrators, providing seamless management of schedules, facilities, and finances.  <br><br>- Elderly Healthcare App (2024)  <br>   A mobile app enhancing health monitoring and reporting for underserved elderly populations in Indonesia.  <br><br>- Smart Village System (2023)  <br>   Designed to digitize administrative processes and citizen engagement in rural areas.  <br><br><br><br> 📚 Education & Certifications  <br>- Universitas Muhammadiyah Pekajangan Pekalongan  <br>  - Bachelor of Informatics Engineering (2019–2023)  <br><br>- Certifications:  <br>  - IBM SkillsBuild Program (2024)  <br>  - Dicoding: Data Scientist Beginner (2024)  <br>  - Telkom Indonesia: Class Hacker Front-End (2024)  <br><br><br><br> 🌟 What I Value  <br>- Innovation: Solving problems through creative and efficient solutions.  <br>- Collaboration: Building impactful projects with diverse teams.  <br>- Continuous Learning: Staying ahead in a rapidly evolving tech landscape.  <br><br><br><br> 📬 Let's Connect  <br>💼 [LinkedIn](https://linkedin.com/in/rizkiyan-tri-ade-pama)  <br>🌐 [Portfolio](https://rizkiyan-portfolio.com)  <br>📧 Email: rizkypama3@gmail.com  <br>
+💻 Rizkiyan Tri Ade Pama<br>
+Software Engineer | Front-End Specialist | Data Enthusiast<br>
+🌟 Empowering Lives Through Code and Innovation<br>
+
+🌟 About Me<br>
+Hi! I’m Rizkiyan Tri Ade Pama, a passionate Software Engineer with a keen focus on Front-End Development and Data Science. I combine hands-on experience with enterprise-level projects and a commitment to continuous learning to craft innovative solutions for real-world challenges.<br>
+
+🛠️ Skills & Expertise<br>
+Programming Languages:<br>
+JavaScript, Python, PHP, SQL<br>
+Front-End Tools:<br>
+React.js, Vue.js, Tailwind CSS, Bootstrap<br>
+Data Science:<br>
+Python (Pandas, NumPy, Matplotlib), Jupyter Notebook<br>
+Backend Development:<br>
+Node.js, Laravel, Express.js<br>
+DevOps & Tools:<br>
+Git, GitHub Actions, Docker, AWS<br>
+Specialties:<br>
+Front-End Engineering, Data Visualization, API Integration<br>
+
+🌍 Experience Highlights<br>
+1. Digistar Class Hacker - Front-End (Telkom Indonesia)<br>
+   Member of the Payment Gateway Team for PaDi-UMKM, enhancing secure transaction systems for SMEs.<br>
+   Achievements:<br>
+   - Ranked 3rd in Class Hacker Front-End.<br>
+   - Selected as one of the Top 10 Projects in PaDi-UMKM.<br>
+   - Named in the Top 100 Mentee Nominees out of thousands of participants nationwide.<br>
+
+2. IBM SkillsBuild Program (2024)<br>
+   Completed professional training in cloud computing, AI, and data analysis, focusing on real-world problem-solving.<br>
+
+3. Dicoding: Data Scientist Beginner Pathway (2024)<br>
+   Gained certifications in data wrangling, machine learning basics, and data visualization.<br>
+
+4. Internship at PT. Telkom Akses Pekalongan<br>
+   Streamlined network maintenance workflows, reducing downtime by 30%.<br>
+   Led a cross-functional team in automating key operational processes.<br>
+
+5. Kemenpora - NYST Project<br>
+   Developed a Mosque Management System to streamline facility booking, event scheduling, and financial tracking.<br>
+
+6. Community Service: Technology for Elderly Healthcare<br>
+   Created a healthcare app addressing elderly service accessibility in rural areas.<br>
+
+7. Virtual Exchange Program (Asia University, Taiwan)<br>
+   Top Performer with a score of 98/100 in Digital Image Processing and Volunteering in Technology.<br>
+   Collaborated globally on tech-driven community engagement solutions.<br>
+
+📈 Projects & Contributions<br>
+1. Payment Gateway for PaDi-UMKM (2024):<br>
+   Secure and scalable SME transaction system, recognized as a Top 10 Project by Telkom Indonesia.<br>
+
+2. Mosque Management System (2024):<br>
+   Tech solution for seamless management of schedules, facilities, and finances.<br>
+
+3. Elderly Healthcare App (2024):<br>
+   A mobile app for health monitoring and reporting for underserved elderly populations.<br>
+
+4. Smart Village System (2023):<br>
+   Digitized administrative processes and enhanced citizen engagement in rural areas.<br>
+
+📚 Education & Certifications<br>
+Universitas Muhammadiyah Pekajangan Pekalongan<br>
+Bachelor of Informatics Engineering (2019–2023)<br>
+Certifications:<br>
+- IBM SkillsBuild Program (2024)<br>
+- Dicoding: Data Scientist Beginner (2024)<br>
+- Telkom Indonesia: Class Hacker Front-End (2024)<br>
+
+🌟 Core Values<br>
+Innovation: Solving problems with creative and efficient solutions.<br>
+Collaboration: Building impactful projects with diverse teams.<br>
+Continuous Learning: Staying ahead in a rapidly evolving tech landscape.<br>
+
+📬 Let’s Connect!<br>
+LinkedIn: linkedin.com/in/rizkiyan-tri-ade-pama<br>
+Portfolio: rizkiyan-portfolio.com<br>
+Email: rizkypama3@gmail.com<br>
+
 
 
 ## 🌐 Socials:
